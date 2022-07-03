@@ -24,7 +24,6 @@ Resubscribes to your subreddits because Reddit Devs broke something
     username="INSERT_USERNAME",
     )
     ```
-    ![Alt text](readmeImg/4.png "Title")
 
     Don't forget to put your password and username. Also, if you have 2FA enabled, you have to disable it. [Reddit oauth does not play nice with 2fa](https://praw.readthedocs.io/en/latest/getting_started/authentication.html)
 
