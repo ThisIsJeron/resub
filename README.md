@@ -4,7 +4,7 @@ Resubscribes to your subreddits because Reddit Devs broke something
 #how to use
 0. 
 
-1. Get list of subs through source inspector
+1. Get list of subs through source inspector. This does require a little bit of luck, as we know the subs sporadically appear then disappear. When they do appear, you can get the list of subs
     ![Alt text](readmeImg/1a.png "Title")
     ![Alt text](readmeImg/1b.png "Title")
 
