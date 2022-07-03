@@ -29,7 +29,8 @@ Resubscribes to your subreddits because Reddit Devs broke something
 
     Don't forget to put your password and username. Also, if you have 2FA enabled, you have to disable it. [Reddit oauth does not play nice with 2fa](https://praw.readthedocs.io/en/latest/getting_started/authentication.html)
 
-5. One more thing before running the script, you have to install the 'praw' library. 
+5. One more thing before running the script, you have to install the 'praw' library. Run this in the terminal: 
     ```pip3 install praw```
+    
 6. Run script.py and it will re-subscribe you to all your subs!!
 
