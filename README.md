@@ -13,7 +13,6 @@ Resubscribes to your subreddits because Reddit Devs broke something
 2. Put these into bin/subs.txt in that format (at this moment it won't take any other format)
 
 3. Create an app at [this link](https://www.reddit.com/prefs/apps). for app name, you can put resub and put whatever you want for description. You can leave about url blank, and for redirect uri you can put 'http://www.example.com/unused/redirect/uri'
-
 ![Alt text](readmeImg/4.png "Title")
 
 4. Now to configure the script. Go to bin/script.py. Under client_id and client_secret, put the text you get from the app you created
